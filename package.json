@@ -1,0 +1,21 @@
+{
+  "name": "csgotranslator",
+  "version": "0.0.1",
+  "description": "Translator for CSGO",
+  "main": "main.js",
+  "dependencies": {
+    "google-translate": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "tail": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.norius.fr:root/CSGOTranslator.git"
+  },
+  "author": "Lou PERRET",
+  "license": "GPL-3.0"
+}
